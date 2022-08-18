@@ -6,4 +6,10 @@ def main(s):
     Returns:
         int: answer
     """
-    return
+    s=0
+    s+=int(s[0])
+    s+=int(s[1])
+    s+=int(s[2])
+    s+=int(s[3])
+    s+=int(s[4])
+    return s
